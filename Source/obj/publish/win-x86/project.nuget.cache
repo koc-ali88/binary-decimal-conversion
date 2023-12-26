@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dgs/gMMjJv7j67XeVCdHRZRMQFZdns8R5PRjr3Xv9H9QeG34b8/BS+M+OHo81KN+mZRVdMSL0yTeiU6oWfbZOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\source\\repos\\binary conversion guessing game cs version\\binary conversion guessing game cs version\\binary conversion guessing game cs version.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.7\\microsoft.netcore.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.7.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.7\\microsoft.aspnetcore.app.runtime.win-x86.7.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

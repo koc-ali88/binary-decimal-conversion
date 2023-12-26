@@ -1,0 +1,7 @@
+C:\Users\Ali\Desktop\binary-decimal quiz\binary conversion guessing game cs version.pdb
+C:\Users\Ali\Desktop\binary-decimal quiz\D3DCompiler_47_cor3.dll
+C:\Users\Ali\Desktop\binary-decimal quiz\PenImc_cor3.dll
+C:\Users\Ali\Desktop\binary-decimal quiz\PresentationNative_cor3.dll
+C:\Users\Ali\Desktop\binary-decimal quiz\vcruntime140_cor3.dll
+C:\Users\Ali\Desktop\binary-decimal quiz\wpfgfx_cor3.dll
+C:\Users\Ali\Desktop\binary-decimal quiz\binary conversion guessing game cs version.exe

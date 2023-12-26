@@ -1,0 +1,17 @@
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\bin\Release\net7.0-windows\binary conversion guessing game cs version.exe
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\bin\Release\net7.0-windows\binary conversion guessing game cs version.deps.json
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\bin\Release\net7.0-windows\binary conversion guessing game cs version.runtimeconfig.json
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\bin\Release\net7.0-windows\binary conversion guessing game cs version.dll
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\bin\Release\net7.0-windows\binary conversion guessing game cs version.pdb
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary_conversion_guessing_game_cs_version.Form1.resources
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.AssemblyInfo.cs
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.dll
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\refint\binary conversion guessing game cs version.dll
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.pdb
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\binary conversion guessing game cs version.genruntimeconfig.cache
+C:\Users\Ali\source\repos\binary conversion guessing game cs version\binary conversion guessing game cs version\obj\Release\net7.0-windows\ref\binary conversion guessing game cs version.dll
